@@ -1,0 +1,11 @@
+C:\Users\HP 255\source\repos\Kepmegjelenito\bin\Debug\Kepmegjelenito.exe.config
+C:\Users\HP 255\source\repos\Kepmegjelenito\bin\Debug\Kepmegjelenito.exe
+C:\Users\HP 255\source\repos\Kepmegjelenito\bin\Debug\Kepmegjelenito.pdb
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.Form1.resources
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.frmViewer.resources
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.Properties.Resources.resources
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.csproj.GenerateResource.cache
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.exe
+C:\Users\HP 255\source\repos\Kepmegjelenito\obj\Debug\Kepmegjelenito.pdb
